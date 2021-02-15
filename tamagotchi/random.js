@@ -31,9 +31,9 @@ images[21]='<div class="grid-item"><a href="garden.html"><img class="tama" borde
 images[22]='<div class="grid-item"><a href="e-girls.html"><img class="tama" border="0" src="images/tb/29.png"></a><a href="population explosion.html" target="_blank"><p>$24.99</p></a></div>'
 images[23]='<div class="grid-item"><a href="species guide.html"><img class="tama" border="0" src="images/tb/24.png"></a><a href="population explosion.html" target="_blank"><p>$24.99</p></a></div>'
 images[24]='<div class="grid-item"><a href="Parenting Manual.html"><img class="tama" border="0" src="images/tb/25.png"></a><a href="population explosion.html" target="_blank"><p>$24.99</p></a></div>'
-images[25]='<div class="grid-item"><a href="Parenting Manual.html"><img class="tama" border="0" src="images/tb/32.png"></a><a href="population explosion.html" target="_blank"><p>$24.99</p></a></div>'
+images[25]='<div class="grid-item"><a href="Species Guide.html"><img class="tama" border="0" src="images/tb/32.png"></a><a href="population explosion.html" target="_blank"><p>$24.99</p></a></div>'
 images[26]='<div class="grid-item"><a href="Love it, Feed it, Mourn it.html"><img class="tama" border="0" src="images/tb/44.png"></a><a href="population explosion.html" target="_blank"><p>$19.99</p></a></div>'
-images[27]='<div class="grid-item"><a href="https://onezero.medium.com/the-tamagotchi-hacking-communitys-quest-to-cheat-death-dc3e7ee27a0f" target="_blank"><img class="tama" border="0" src="images/tb/38.png"></a><a href="population explosion.html" target="_blank"><p>$19.99</p></a></div>'
+images[27]='<div class="grid-item"><a href="Genetic Engineering.html" target="_blank"><img class="tama" border="0" src="images/tb/38.png"></a><a href="population explosion.html" target="_blank"><p>$19.99</p></a></div>'
 images[28]='<div class="grid-item"><a href="Play God, Catch Hell.html"><img class="tama" border="0" src="images/tb/34.png"></a><a href="population explosion.html" target="_blank"><p>$19.99</p></a></div>'
 images[29]='<div class="grid-item"><a href="Family Tree.html"><img class="tama" border="0" src="images/tb/46.png"></a><a href="population explosion.html" target="_blank"><p>$19.99</p></a></div>'
 
